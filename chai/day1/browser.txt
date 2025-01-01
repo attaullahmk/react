@@ -1,0 +1,18 @@
+how browser work 
+
+browser main parts 
+ > UI
+ > browser engine
+ > rendering engine
+ > js engine
+ > Data 
+ > network
+ > timers 
+
+ browser vs os ?
+
+
+ browser engine vs js engine ?
+
+
+
